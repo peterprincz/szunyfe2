@@ -1,0 +1,7 @@
+{
+    "server": {
+        "protocol": "https",
+        "domain": "szunyibe.herokuapp.com",
+        "port": 443
+    }
+}
